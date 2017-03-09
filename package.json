@@ -1,0 +1,17 @@
+{
+  "name": "embarkMeteor",
+  "version": "1.0.0",
+  "description": "embarkMeteor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "embark-framework": "1.0.2",
+    "intercept-stdout": "0.1.2",
+    "ps-node": "https://github.com/hitchcott/ps/archive/2ace1d34a77a12c62dcc4aee597d93b1a28468b4.tar.gz"
+  }
+}
