@@ -1,6 +1,6 @@
 development:
   rpc_host: localhost
-  rpc_port: 8101
+  rpc_port: 8000
   rpc_whitelist: "*"
   minerthreads: 1
   genesis_block: config/genesis.json
